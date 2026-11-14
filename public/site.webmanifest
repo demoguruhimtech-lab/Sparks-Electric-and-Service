@@ -1,0 +1,21 @@
+{
+  "name": "Sparks Electric and Service",
+  "short_name": "Sparks Electric",
+  "description": "Professional electrical services in Duvall, WA and the Snoqualmie Valley.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#101F35",
+  "theme_color": "#101F35",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
